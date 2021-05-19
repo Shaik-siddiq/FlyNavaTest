@@ -1,0 +1,31 @@
+{
+   "Questions" : [
+  {
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "options": ["javascript", "scripting", "script","js"],
+    "answer":"script"
+  },
+  {
+    "question": "What is the full form of SPA?",
+    "options": ["Secured and Progressive App","SOLID Principles for Application","Single Page Application","None of the above"],
+    "answer":"Single Page Application"
+  },
+  {
+   "question": "Which of these keyword is NOT used to declare a variable in Javascript?",
+    "options": ["dim","let","const","var"],
+    "answer":"dim"
+  },
+  {
+    "question": "What does the <noscript> tag used for?",
+    "options": ["Displayed text in non-JavaScript browsers","Prevents Script Execution","Requests user not to run scripts","None of the above"],
+    "answer":"Displayed text in non-JavaScript browsers"
+  },
+  {
+    "question": "How do you write \"Hello World\" in a alert box?",
+    "options": ["alertBox(\"Hello World\");","msgBox(\"Hello World\");","display\"Hello World\";","alert(\"Hello World\");"],
+    "answer":"alert(\"Hello World\");"
+  }
+]
+}
+
+
